@@ -35,6 +35,7 @@ Type `-h` to see other available options.
 ## Output 
 Output data are written by `loop` structure, an element of the Self-Defining Text Archive and Retrival (STAR) format, often be used in used in molecular-structure sciences.
 It has two categories, `_gap_penalty` and `_weighting`.
+If necessary, see the documentation about STAR format (https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/beginner%E2%80%99s-guide-to-pdb-structures-and-the-pdbx-mmcif-format).
 
 [e.g.]
 
